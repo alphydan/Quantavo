@@ -39,6 +39,14 @@ You may also execute the file " Quantavo_Example_Worksheet.mw" to find some exam
 Screenshots
 ===========
 
+Declare States in the Fock basis and let them evolve with an arbitrary unitary transformation of the modes: 
+![Example 1](/screenshots/Quantavo.png)
+
+Plot and display density matrices and pure quantum states: 
+![Example 2](/screenshots/Quantavo_evolution2.png)
+
+Evaluate and plot the Negativity (Entanglement Measure) for different states: 
+![Example 2](/screenshots/Quantavo_negativity2.png)
 
 
 
