@@ -40,13 +40,13 @@ Screenshots
 ===========
 
 Declare States in the Fock basis and let them evolve with an arbitrary unitary transformation of the modes: 
-![Example 1](/screenshots/Quantavo.png)
+![Example 1](https://github.com/alphydan/Quantavo/raw/master/screenshots/Quantavo.png)
 
 Plot and display density matrices and pure quantum states: 
-![Example 2](/screenshots/Quantavo_evolution2.png)
+![Example 2](https://github.com/alphydan/Quantavo/raw/master/screenshots/Quantavo_evolution2.png)
 
 Evaluate and plot the Negativity (Entanglement Measure) for different states: 
-![Example 2](/screenshots/Quantavo_negativity2.png)
+![Example 2](https://github.com/alphydan/Quantavo/raw/master/screenshots/Quantavo_negativity2.png)
 
 
 
